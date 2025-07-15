@@ -1,20 +1,22 @@
-AI‑Tutor
-⚙️ A modular AI‑powered tutor framework designed to build personalized learning chatbots and apps using LLMs.
+<h1 align="center">AI Tutor</h1>
 
+<h3 align="center">⚙️ A modular AI‑powered tutor framework designed to build personalized learning chatbots and apps using LLMs.</h3>
+
+<br>
 
 https://github.com/user-attachments/assets/f39884b3-9358-4a48-b5b6-4a3dac0f213e
 
 
-🚀 Features
+## 🚀 Features
 
-Tutoring chat interface: Interactive Q&A between user and AI.
+- Tutoring chat interface: Interactive Q&A between user and AI.
 
-Customizable prompts: Easily adapt to different subjects, grades, or styles.
+- Customizable prompts: Easily adapt to different subjects, grades, or styles.
 
-🚀 Features to be implemented
+##  Features to be implemented
 
-Lesson planning: Define custom lesson structures (topics, quizzes, flashcards).
+- Lesson planning: Define custom lesson structures (topics, quizzes, flashcards).
 
-Quiz & flashcard generation: Auto-create practice material using AI.
+- Quiz & flashcard generation: Auto-create practice material using AI.
 
-Multilingual support: Plug in different languages and LLM models.
+- Multilingual support: Plug in different languages and LLM models.
